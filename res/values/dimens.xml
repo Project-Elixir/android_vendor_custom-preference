@@ -17,5 +17,5 @@
 
     <!-- Color Picker -->
     <dimen name="oval_notification_size">26dp</dimen>
-
+    <dimen name="picker_circle_preview_size">26dp</dimen>
 </resources>
